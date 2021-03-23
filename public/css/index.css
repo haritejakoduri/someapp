@@ -1,0 +1,30 @@
+.upcoming-auctions{
+    background-color: rgb(49, 139, 49);
+    color: white;
+}
+.upcoming-auctions h5,.upcoming-auctions h6{
+    text-align: center;
+}
+.upcoming-auctions-div{
+    padding: 0px;
+    position: sticky;
+    top: 1px;
+}
+.upcoming-auction-input{
+    padding: 5px;
+}
+.back-weat{
+    background-color: wheat;
+}
+.product .image{
+    height: 200px;
+    width: 300px;
+}
+.align-center-text{
+    text-align: center;
+    color: #bb30a4;
+}
+.sticky-item{
+    position: sticky;
+    top: 1px;
+}
